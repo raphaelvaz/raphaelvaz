@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá,eu sou o Raphael Trombetta
+------
+
+Para entrar em contato comigo pode usar o email raphaeltrombetta@gmail.com ou pelo [Meu Linkedin](https://www.linkedin.com/in/raphael-vaz-b232421b5/).
 
 <!--
 **raphaelvaz/raphaelvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
