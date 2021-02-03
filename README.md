@@ -3,9 +3,9 @@
 
 Sou concursado a 4 anos, trabalho fazendo manutenção de equipamentos elétricos e eletrônicos em laboratórios de ensino e pesquisa na Universidade Federal do Rio Grande (FURG). Essa experiência me permitiu aprender um pouco sobre resolver problemas e gerenciar recursos. Também estou cursando ADS, que contribui bastante para entender a base e os fundamentos da programação e do desenvolvimento de software.
 
-No momento venho me dedicando a desenvolver utilizando NodeJS, React, React Native e Typescript através de alguns projetos desenvolvidos em eventos e cursos. Além disso, estou refatorando alguns códigos feitos no passado, adicionando funcionalidades e clonando interfaces de softwares já existentes, afim de aprender cada vez mais sobre desenvolver sistemas úteis e intuitivos.
+Nas horas vagas venho estudando NodeJS  através de alguns projetos desenvolvidos em eventos e cursos e aprendendo cada vez mais sobre Backend e suas diferentes nuncias e maneiras de resolver problemas.
 
-Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor que acredito ser o que mais gosto de fazer :heart:.
+Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor backend que acredito ser o que mais gosto de fazer ❤️. E cada vez aprender mais.
 
 ------
 Para entrar em contato comigo pode usar o email raphaeltrombetta@gmail.com ou pelo [Meu Linkedin](https://www.linkedin.com/in/raphael-vaz-b232421b5/).
