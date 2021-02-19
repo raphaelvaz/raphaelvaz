@@ -5,7 +5,7 @@ Sou concursado a 4 anos, trabalho fazendo manutenção de equipamentos elétrico
 
 Nas horas vagas venho estudando NodeJS  através de alguns projetos desenvolvidos em eventos e cursos e aprendendo cada vez mais sobre Backend e suas diferentes nuances e maneiras de resolver problemas.
 
-Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor backend que acredito ser o que mais gosto de fazer ❤️. E cada vez aprender mais.
+Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor backend que acredito ser o que mais gosto de fazer ❤️.
 
 ------
 Para entrar em contato comigo pode usar o email raphaeltrombetta@gmail.com ou pelo [Meu Linkedin](https://www.linkedin.com/in/raphael-vaz-b232421b5/).
