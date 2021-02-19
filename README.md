@@ -3,7 +3,7 @@
 
 Sou concursado a 4 anos, trabalho fazendo manutenção de equipamentos elétricos e eletrônicos em laboratórios de ensino e pesquisa na Universidade Federal do Rio Grande (FURG). Essa experiência me permitiu aprender um pouco sobre resolver problemas e gerenciar recursos. Também estou cursando ADS, que contribui bastante para entender a base e os fundamentos da programação e do desenvolvimento de software.
 
-Nas horas vagas venho estudando NodeJS  através de alguns projetos desenvolvidos em eventos e cursos e aprendendo cada vez mais sobre Backend e suas diferentes nuncias e maneiras de resolver problemas.
+Nas horas vagas venho estudando NodeJS  através de alguns projetos desenvolvidos em eventos e cursos e aprendendo cada vez mais sobre Backend e suas diferentes nuances e maneiras de resolver problemas.
 
 Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor backend que acredito ser o que mais gosto de fazer ❤️. E cada vez aprender mais.
 
