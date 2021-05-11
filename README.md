@@ -1,25 +1,31 @@
 ### Olá,eu sou o Raphael Trombetta
-------
-Trabalho fazendo manutenção de equipamentos elétricos e eletrônicos em laboratórios de ensino e pesquisa na Universidade Federal do Rio Grande (FURG). Essa experiência me permitiu aprender um pouco sobre resolver problemas e gerenciar recursos. Também estou cursando ADS, que contribui bastante para entender a base e os fundamentos da programação e do desenvolvimento de software.
 
-Nas horas vagas venho estudando NodeJS  através de alguns projetos desenvolvidos em eventos e cursos e aprendendo cada vez mais sobre Backend e suas diferentes nuances e maneiras de resolver problemas.
+Trabalho fazendo manutenção de equipamentos elétricos e eletrônicos em laboratórios de ensino e pesquisa na Universidade Federal do Rio Grande (FURG). Também estou cursando ADS, que contribui bastante para entender a base e os fundamentos da programação e do desenvolvimento de software.
 
-Assim, busco migrar para a área de TI e começar a trabalhar como desenvolvedor backend que acredito ser o que mais gosto de fazer ❤️.
+Nas horas vagas venho fazendo freelances e estudando React e Node através de projetos parelelos e cursos.
 
-------
+## Últimas experiências
+
+### MrBatata - Freelancer - Página de produto para vender em pontos de venda - Maio/2021.
+- Desenvolvido em React;
+- Desenvolvido formulário de contato;
+- Site responsivo;
+- Utilizado scss;
+- Realizado Deploy.
+
+### Happy 2.0 - Side Project - Sistema desenvolvido para ajudar a conectar orfanatos a possíveis visitantes - Janeiro/2021.
+- Desenvolvido em Nodejs com Express, React, Typescript e Postgres;
+- Desenvolvido CRUD de orfanatos;
+- Desenvolvido login e autenticação de usuário;
+- Desenvolvido página de administrador;
+- Aplicação com mapeamento utilizando Leaflet;
+
+### CarsWeb - Side Project - Sistema de venda de carro que seja possível pesquisar por modelo e marca e filtrar por faixa de ano e preço - Abril/2021.
+- Desenvolvido em Nodejs com Express, React, Typescript e Mongodb;
+- Utilizado conceitos de arquitetura hexagonal;
+- Desenvolvido CRUD de carro;
+- Desenvolvido testes unitários e de integração no backend utilizando Jest;
+- Consulta a API;
+- Animações no frontend utilizando css;
+
 Para entrar em contato comigo pode usar o email raphaeltrombetta@gmail.com ou pelo [Meu Linkedin](https://www.linkedin.com/in/raphael-vaz-b232421b5/).
-
-<!--
-**raphaelvaz/raphaelvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
