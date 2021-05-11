@@ -25,6 +25,7 @@ Nas horas vagas venho fazendo freelances e estudando React e Node através de pr
 - Utilizado conceitos de arquitetura hexagonal;
 - Desenvolvido CRUD de carro;
 - Desenvolvido testes unitários e de integração no backend utilizando Jest;
+- Desenvolvido log de erros utilizando o padrão decorator;
 - Consulta a API;
 - Animações no frontend utilizando css;
 
